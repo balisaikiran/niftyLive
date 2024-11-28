@@ -1,0 +1,4 @@
+flask==2.0.1
+yfinance==0.2.31
+flask-cors==3.0.10
+pytz==2023.3
